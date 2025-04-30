@@ -1,0 +1,5 @@
+Línea 1 del archivo1
+Línea 2 del archivo1
+Línea 3 del archivo1
+Línea 4 del archivo1
+Línea 5 del archivo1
