@@ -4,3 +4,4 @@ Línea 3 del archivo2
 Línea 4 del archivo2
 Línea 5 del archivo2
 Línea adicional para versión 3
+Línea para generar conflicto
